@@ -54,7 +54,6 @@ Most identified bad customers fall within the medium risk category suggesting th
 ![Dashboard](screenshots/dashboard1.JPG)
 ![Dashboard](screenshots/dashboard2.JPG)
 ![Dashboard](screenshots/dashboard3.JPG)
-![Dashboard](screenshots/dashboard4.JPG)
 
 ## Key Findings
 - Credit risk is strongly linked to employment stability and income level
