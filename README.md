@@ -62,6 +62,13 @@ Most identified bad customers fall within the medium risk category suggesting th
 - Risk is driven by a combination of factors not a single variable
 
 ## Project Structure
+- notes/ → information about the project
+- screenshots/ → Visual outputs
+
+---
+
+### N:B Dataset not included due to size limits.
 - data/ → Raw datasets
 - dashboard/ → Excel dashboard
-- screenshots/ → Visual outputs
+
+Download here: https://drive.google.com/drive/folders/134Uv6_pyTe3zlyt_R0ajeCZ4qXh3S8rG?usp=sharing
